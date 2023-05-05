@@ -1,4 +1,4 @@
-package com.task10.task10.exception;
+package com.task9.task9.exception;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;

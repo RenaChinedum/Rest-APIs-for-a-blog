@@ -10,8 +10,8 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class PageResponse {
-    private List<PostDTO> postPage;
+public class PostPageResponse {
+    private List<?> content;
     private int pageNo;
     private int pageSize;
     private long totalElement;
